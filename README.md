@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasha12345-s&show_icons=true&locale=en" alt="dasha12345-s" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasha12345-s&theme=highcontrast" alt="dasha12345-s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasha12345-s&theme=default" alt="dasha12345-s" /></p>
