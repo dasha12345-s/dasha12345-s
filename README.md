@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darya</h1>
 <h3 align="center">A am frontend developer from Miami</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently seeking a **Middle QA Engineer** role where I can leverage my expertise to enhance software quality and testing processes.
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **shostak19@icoud.com**
+- 📫 How to reach me **shostak.darya2025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
