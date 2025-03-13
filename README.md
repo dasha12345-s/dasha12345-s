@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darya</h1>
-<h3 align="center">I am a Manual QA based in Miami with experience in software testing and a solid understanding of JavaScript and React. I specialize in ensuring software quality through thorough manual testing while continuously expanding my knowledge in frontend technologies to enhance my skill set. </h3>
+<h3 align="center">I am a **Manual QA based in Miami** with experience in software testing and a solid understanding of JavaScript and React. I specialize in ensuring software quality through thorough manual testing while continuously expanding my knowledge in frontend technologies to enhance my skill set. </h3>
 
 - 🌱 Currently seeking a **Middle QA Engineer** role where I can leverage my expertise to enhance software quality and testing processes.
 
