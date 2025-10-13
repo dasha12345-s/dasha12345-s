@@ -8,7 +8,6 @@
 My background in <b>JavaScript</b> and <b>React</b> helps me understand applications from a developer’s perspective,  
 allowing me to design efficient test cases and ensure high-quality user experiences.
 </p>
----
 
 ### About Me
 -  Skilled in **manual testing**, **test documentation**, and **bug reporting**  
