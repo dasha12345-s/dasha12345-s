@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darya</h1>
-<h3 align="center"> QA Engineer based in Florida 🌴 | Manual & Automation Testing (Cypress, JavaScript) | Focused on quality, clarity, and constant growth
+<h3 align="center"> QA Engineer based in Florida 🌴 | Manual & Automation Testing (Cypress, JavaScript) | 
+ Focused on quality, clarity, and constant growth
  </h3>
 
 <p align="center">
