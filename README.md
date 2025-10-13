@@ -1,14 +1,48 @@
 <h1 align="center">Hi 👋, I'm Darya</h1>
-<h3 align="center"> I am a Manual QA based in Miami with experience in software testing and a solid understanding of JavaScript and React. I specialize in ensuring software quality through thorough manual testing while continuously expanding my knowledge in frontend technologies to enhance my skill set. </h3>
+<h3 align="center"> QA Engineer based in Florida 🌴 | Manual & Automation Testing (Cypress, JavaScript) | Focused on quality, clarity, and constant growth
+ </h3>
 
-- 🌱 Currently seeking a **Middle QA Engineer** role where I can leverage my expertise to enhance software quality and testing processes.
+<p align="center">
+  I’m a dedicated <b>QA Engineer</b> with experience in <b>manual testing</b> and growing expertise in <b>test automation using Cypress</b>.  
+My background in <b>JavaScript</b> and <b>React</b> helps me understand applications from a developer’s perspective,  
+allowing me to design efficient test cases and ensure high-quality user experiences.
+</p>
+---
 
-- 📫 How to reach me **shostak.darya2025@gmail.com**
+### About Me
+-  Skilled in **manual testing**, **test documentation**, and **bug reporting**  
+-  Expanding automation skills with **Cypress**, **JavaScript**, **API testing**, and **SQL**  
+-  Currently seeking a **QA Engineer** or **QA Automation Engineer** role in the U.S.  
+-  Passionate about product quality, clear communication, and continuous growth  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Contact Me
+  **Email:** [shostak19@icloud.com](mailto:shostak19@icloud.com)  
+  **LinkedIn:** [linkedin.com/in/darya-shostak](https://www.linkedin.com/in/darya-shostak)
+
+---
+### Languages & Tools
 <p align="left">
-<a href="www.linkedin.com/in/darya-shostak-7532781b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darya-shostak-7532781b3/?midtoken=aqfp0dfzuogs6g&midsig=0dhxovcnqm0hc1&trk=eml-jobs_jymbii_digest-header-0-profile_glimmer&trkemail=eml-jobs_jymbii_digest-header-0-profile_glimmer-null-dse3hr~ltsziqbs~qr-null-null&eid=dse3hr-ltsziqbs-qr&otptoken=mwewnjfkztcxnji5y2jjmgizmjqwngvkndcxzwuyyjy4nmnkzdi0mdliytk4zdyxnzljnza3nmi0zdvintrmn2y0zdrkzmi0mtjjy2vhzdm3zmewytjlndk5n2jiyzu2njc5otg3mzi2zguxn2rmnwe1y2vmzswxlde%3d" height="30" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.cypress.io/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40" alt="Cypress"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p
+---
+
+### Featured QA Projects
+- **Cypress Login App (E2E Testing)** – Automated login scenarios, form validation, and UI checks  
+IN PROGRESS - **Postman API Testing Collection** – Positive/negative test suites with data-driven variables  
+IN PROGRESS - **SQL Validation Scripts** – Queries for verifying backend data integrity  
+
+> 📁 Explore more in my [QA Portfolio Repository](https://github.com/dasha12345-s/qa-portfolio)
+
+---
+
+<p align="center">⭐️ “Quality is not an act, it is a habit.” — Aristotle</p>
