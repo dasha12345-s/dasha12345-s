@@ -39,7 +39,7 @@ allowing me to design efficient test cases and ensure high-quality user experien
 ### Featured QA Projects
 - **Cypress Login App (E2E Testing)** – Automated login scenarios, form validation, and UI checks  
 IN PROGRESS - **Postman API Testing Collection** – Positive/negative test suites with data-driven variables  
-**SQL Validation Scripts** – Queries for verifying backend data integrity  
+- **SQL Validation Scripts** – Queries for verifying backend data integrity  
 
 > 📁 Explore more in my [QA Portfolio Repository](https://github.com/dasha12345-s/qa-portfolio)
 
