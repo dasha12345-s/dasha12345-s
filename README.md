@@ -12,7 +12,7 @@ allowing me to design efficient test cases and ensure high-quality user experien
 ### About Me
 -  Skilled in **manual testing**, **test documentation**, and **bug reporting**  
 -  Expanding automation skills with **Cypress**, **JavaScript**, **API testing**, and **SQL**  
--  Currently seeking a **QA Engineer** or **QA Automation Engineer** role in the U.S.  
+-  Currently seeking a **QA Engineer** role in the U.S.  
 -  Passionate about product quality, clear communication, and continuous growth  
 
 ---
