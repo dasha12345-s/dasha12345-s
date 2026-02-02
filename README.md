@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Darya</h1>
-<h3 align="center"> QA Engineer based in Florida 🌴 | Manual & Automation Testing (Cypress, JavaScript) | 
+<h3 align="center"> QA Engineer based in Florida 🌴 | Manual & Automation Testing| 
  Focused on quality, clarity, and constant growth
  </h3>
 
@@ -11,7 +11,7 @@ allowing me to design efficient test cases and ensure high-quality user experien
 
 ### About Me
 -  Skilled in **manual testing**, **test documentation**, and **bug reporting**  
--  Expanding automation skills with **Cypress**, **JavaScript**, **API testing**, and **SQL**  
+-  Expanding automation skills with **Cypress**, **Playwright**, **TypeScript**, **JavaScript**, **API testing**, and **SQL**  
 -  Currently seeking a **QA Engineer** role in the U.S.  
 -  Passionate about product quality, clear communication, and continuous growth  
 
@@ -38,7 +38,7 @@ allowing me to design efficient test cases and ensure high-quality user experien
 
 ### Featured QA Projects
 - **Cypress Login App (E2E Testing)** – Automated login scenarios, form validation, and UI checks  
-IN PROGRESS - **Postman API Testing Collection** – Positive/negative test suites with data-driven variables  
+- **Postman API Testing Collection** – Positive/negative test suites with data-driven variables  
 - **SQL Validation Scripts** – Queries for verifying backend data integrity  
 
 > 📁 Explore more in my [QA Portfolio Repository](https://github.com/dasha12345-s/qa-portfolio)
