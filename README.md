@@ -4,9 +4,8 @@
  </h3>
 
 <p align="center">
-  I’m a dedicated <b>QA Engineer</b> with experience in <b>manual testing</b> and growing expertise in <b>test automation using Cypress</b>.  
-My background in <b>JavaScript</b> and <b>React</b> helps me understand applications from a developer’s perspective,  
-allowing me to design efficient test cases and ensure high-quality user experiences.
+   I'm a QA Engineer with 6 years of experience testing web and mobile applications across payroll, inventory, logistics, and enterprise systems. 
+ I specialize in manual testing, API validation, and SQL data verification, with hands-on experience across the full QA lifecycle — from test planning through defect tracking and reporting.
 </p>
 
 ### About Me
