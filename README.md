@@ -10,10 +10,11 @@ allowing me to design efficient test cases and ensure high-quality user experien
 </p>
 
 ### About Me
--  Skilled in **manual testing**, **test documentation**, and **bug reporting**  
--  Expanding automation skills with **Cypress**, **Playwright**, **TypeScript**, **JavaScript**, **API testing**, and **SQL**  
--  Currently seeking a **QA Engineer** role in the U.S.  
--  Passionate about product quality, clear communication, and continuous growth  
+-  6 years testing web and mobile applications across payroll, inventory, logistics, and reporting systems
+-  Core skills: manual testing, API testing (Postman), SQL validation, full QA lifecycle documentation
+-  Automation in progress: Cypress · JavaScript · Playwright
+-  Currently seeking a QA Engineer role in the U.S. — Permanent Resident, open to remote
+-  Portfolio: full login feature QA lifecycle including test plan, Cypress automation, Postman, SQL, bug reports
 
 ---
 
