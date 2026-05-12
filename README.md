@@ -1,48 +1,69 @@
-<h1 align="center">Hi, I'm Darya</h1>
-<h3 align="center"> QA Engineer based in Florida 🌴 | Manual & Automation Testing| 
- Focused on quality, clarity, and constant growth
- </h3>
+# Hi, I'm Darya 👋
 
-<p align="center">
-   I'm a QA Engineer with 6 years of experience testing web and mobile applications across payroll, inventory, logistics, and enterprise systems. 
- I specialize in manual testing, API validation, and SQL data verification, with hands-on experience across the full QA lifecycle — from test planning through defect tracking and reporting.
-</p>
+### QA Engineer based in Florida 🌴 | Manual & Automation Testing | Focused on quality, clarity, and constant growth
 
-### About Me
--  6 years testing web and mobile applications across payroll, inventory, logistics, and reporting systems
--  Core skills: manual testing, API testing (Postman), SQL validation, full QA lifecycle documentation
--  Automation in progress: Cypress · JavaScript · Playwright
--  Currently seeking a QA Engineer role in the U.S. — Permanent Resident, open to remote
--  Portfolio: full login feature QA lifecycle including test plan, Cypress automation, Postman, SQL, bug reports
+I'm a QA Engineer with 5+ years of experience testing web and mobile applications across payroll, inventory, logistics, and enterprise systems — industries where data accuracy and reliability truly matter.
+
+I've been building automation skills hands-on: writing E2E and API test suites with Cypress and Playwright (TypeScript), running them in GitHub Actions CI/CD pipelines, and applying techniques like Page Object Model, programmatic login via API, network intercepting, and DB seeding.
 
 ---
 
-### Contact Me
-  **Email:** [shostak19@icloud.com](mailto:shostak19@icloud.com)  
-  **LinkedIn:** [linkedin.com/in/darya-shostak](https://www.linkedin.com/in/darya-shostak)
+## About Me
 
----
-### Languages & Tools
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.cypress.io/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40" alt="Cypress"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-</p>
+- 5+ years testing web and mobile apps across payroll, inventory, logistics, and enterprise systems
+- Core skills: manual testing, API testing (Postman), SQL validation, full QA lifecycle documentation
+- Automation: Cypress · Playwright (TypeScript) · GitHub Actions CI/CD · Page Object Model
+- U.S. Permanent Resident based in South Florida — open to remote roles
+- Currently seeking a QA Automation Engineer role
 
 ---
 
-### Featured QA Projects
-- **Cypress Login App (E2E Testing)** – Automated login scenarios, form validation, and UI checks  
-- **Postman API Testing Collection** – Positive/negative test suites with data-driven variables  
-- **SQL Validation Scripts** – Queries for verifying backend data integrity  
+## Languages & Tools
 
-> 📁 Explore more in my [QA Portfolio Repository](https://github.com/dasha12345-s/qa-portfolio)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-<p align="center">⭐️ “Quality is not an act, it is a habit.” — Aristotle</p>
+## Featured QA Projects
+
+### 🔵 [Cypress Real World App — Full Test Suite](https://github.com/dasha12345-s/qa-portfolio)
+End-to-end and API automation suite against a production-grade full-stack payment application (React + Express + SQLite). Tests run in GitHub Actions CI/CD with the app spun up from source on every push.
+
+| Area | Coverage |
+|---|---|
+| Authentication | Login, sign-up, session management |
+| Transaction Flows | Send payment, request money, accept/reject — multi-user E2E |
+| API Testing | POST, PATCH, GET against Express REST backend |
+| Error Handling | 401 Unauthorized, 422 Validation, 404 Not Found |
+| Bug Detection | 4 backend bugs found, confirmed, and documented |
+
+**Key techniques:** `cy.session()` · `cy.intercept()` · `cy.request()` · `db:seed` · Page Object Model · `deep.eq` array assertions
+
+---
+
+### 🟠 [Saucedemo — E2E Test Suite](https://github.com/dasha12345-s/qa-portfolio)
+34-test Cypress suite covering the full user journey on a demo e-commerce platform. Data-driven testing, API stubbing, and artifact reporting in CI.
+
+**Key techniques:** Page Object Model · `cy.intercept()` stubbing · JSON fixtures · GitHub Actions · Screenshot and video artifacts
+
+---
+
+### 🟣 [Login Form — Manual QA Documentation](https://github.com/dasha12345-s/qa-portfolio)
+Comprehensive manual testing artefacts: test planning, structured test design, bug reporting, and API validation with Postman and SQL.
+
+---
+
+## Contact
+
+📧 shostak19@icloud.com
+💼 [linkedin.com/in/darya-shostak](https://linkedin.com/in/darya-shostak)
+
+---
+
+> *"Quality is not an act, it is a habit."* — Aristotle
