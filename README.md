@@ -3,7 +3,6 @@
 ### QA Engineer based in Florida 🌴 | Playwright · Cypress · TypeScript · API Testing · CI/CD
 
 I'm a QA Engineer with 5+ years of experience testing web and mobile applications across payroll, inventory, logistics, and enterprise systems — industries where data accuracy, reliability, and clear defect documentation truly matter.
-I’m currently focused on QA automation with Playwright, Cypress, TypeScript, API testing, and CI/CD. 
 My portfolio demonstrates how I design maintainable automation coverage around business-critical flows, validate behavior through both UI and API layers, and document real product defects clearly.
 
 ---
@@ -16,6 +15,28 @@ My portfolio demonstrates how I design maintainable automation coverage around b
 - Hands-on experience with API validation, network mocking, authentication state reuse, fixtures, and multi-user test scenarios
 - U.S. Permanent Resident based in South Florida — open to remote roles
   
+---
+
+## Featured Projects
+
+[View repository](https://github.com/dasha12345-s/qa-portfolio)
+End-to-end and API automation portfolio built around realistic banking workflows.
+Demonstrates maintainable automation coverage for business-critical flows, including money movement, multi-user scenarios, API validation, network intercepts, and CI/CD execution.
+
+### Main test suites
+
+### [Playwright Real World App — QA Automation Test Suite](./playwrightRealWorldAppTests)
+
+> The main showcase automation suite.
+
+This end-to-end Playwright + TypeScript suite expands coverage for the Cypress Real World App, a production-like banking/payment demo application.
+
+### [Cypress Real World App — Test Suite](./cypressRealWorldAppTests)
+
+> Focused Cypress coverage for the most business-critical money movement scenarios.
+
+This suite demonstrates earlier Cypress-based end-to-end automation for the core transaction lifecycle, including send payment flow, request/accept/reject behavior, and balance verification.
+
 ---
 
 ## Languages & Tools
