@@ -9,7 +9,6 @@ My portfolio demonstrates how I design maintainable automation coverage around b
 
 ## About Me
 
-- 5+ years testing web and mobile apps
 - Strong manual QA foundation: test planning, test design, bug reporting, regression testing, API testing, and SQL validation
 - Automation focus: Playwright · TypeScript · Cypress · GitHub Actions CI/CD · Page Object Model
 - Hands-on experience with API validation, network mocking, authentication state reuse, fixtures, and multi-user test scenarios
