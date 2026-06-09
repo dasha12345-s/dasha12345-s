@@ -18,20 +18,20 @@ My portfolio demonstrates how I design maintainable automation coverage around b
 
 ## Featured Projects
 
-[View repository](https://github.com/dasha12345-s/qa-portfolio)
+## [QA Portfolio](https://github.com/dasha12345-s/qa-portfolio)
 
 End-to-end and API automation portfolio built around realistic banking workflows.
 Demonstrates maintainable automation coverage for business-critical flows, including money movement, multi-user scenarios, API validation, network intercepts, and CI/CD execution.
 
 ### Main test suites
 
-### [Playwright Real World App — QA Automation Test Suite](./playwrightRealWorldAppTests)
+[Playwright Real World App — QA Automation Test Suite](./playwrightRealWorldAppTests)
 
 > The main showcase automation suite.
 
 This end-to-end Playwright + TypeScript suite expands coverage for the Cypress Real World App, a production-like banking/payment demo application.
 
-### [Cypress Real World App — Test Suite](./cypressRealWorldAppTests)
+[Cypress Real World App — Test Suite](./cypressRealWorldAppTests)
 
 > Focused Cypress coverage for the most business-critical money movement scenarios.
 
