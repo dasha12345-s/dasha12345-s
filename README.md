@@ -16,9 +16,7 @@ My portfolio demonstrates how I design maintainable automation coverage around b
   
 ---
 
-## Featured Projects
-
-## [QA Portfolio](https://github.com/dasha12345-s/qa-portfolio)
+## [QA Automation Portfolio](https://github.com/dasha12345-s/qa-portfolio)
 
 End-to-end and API automation portfolio built around realistic banking workflows.
 Demonstrates maintainable automation coverage for business-critical flows, including money movement, multi-user scenarios, API validation, network intercepts, and CI/CD execution.
