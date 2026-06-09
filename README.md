@@ -29,7 +29,7 @@ Demonstrates maintainable automation coverage for business-critical flows, inclu
 
 This end-to-end Playwright + TypeScript suite expands coverage for the Cypress Real World App, a production-like banking/payment demo application.
 
-[Cypress Real World App — Test Suite](/https://github.com/dasha12345-s/qa-portfolio/tree/main/cypressRealWorldAppTests)
+[Cypress Real World App — Test Suite](https://github.com/dasha12345-s/qa-portfolio/tree/main/cypressRealWorldAppTests)
 
 > Focused Cypress coverage for the most business-critical money movement scenarios.
 
