@@ -23,7 +23,7 @@ Demonstrates maintainable automation coverage for business-critical flows, inclu
 
 ### Main test suites
 
-[Playwright Real World App — QA Automation Test Suite](./playwrightRealWorldAppTests)
+[Playwright Real World App — QA Automation Test Suite](https://github.com/dasha12345-s/qa-portfolio/tree/main/playwrightRealWorldAppTests)
 
 > The main showcase automation suite.
 
