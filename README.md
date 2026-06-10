@@ -51,7 +51,7 @@ This suite demonstrates earlier Cypress-based end-to-end automation for the core
 
 ## Contact
 
-📧 shostak19@icloud.com
+📧 daryashostakqa@gmail.com
 💼 [linkedin.com/in/darya-shostak](https://linkedin.com/in/darya-shostak)
 
 ---
