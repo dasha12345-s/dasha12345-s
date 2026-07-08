@@ -2,8 +2,9 @@
 
 ### QA Engineer based in Florida 🌴 | Playwright · Cypress · TypeScript · API Testing · CI/CD
 
-I'm a QA Engineer with 2+ years of experience testing web and mobile applications across payroll, inventory, logistics, and enterprise systems — industries where data accuracy, reliability, and clear defect documentation truly matter.
-My portfolio demonstrates how I design maintainable automation coverage around business-critical flows, validate behavior through both UI and API layers, and document real product defects clearly.
+I'm a QA Engineer with 2+ years of commercial experience testing web and mobile applications across payroll, inventory, logistics, and enterprise systems—industries where accuracy, reliability, and data integrity are business-critical.
+
+After relocating to the U.S., I focused on expanding my automation skills by learning JavaScript, TypeScript, Playwright, and Cypress while building a production-like automation portfolio. My projects demonstrate how I design maintainable test frameworks, validate complex business workflows through UI and API layers, and document product defects with clear technical evidence.
 
 ---
 
